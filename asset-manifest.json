@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/flow-rate-app/static/css/main.e6c13ad2.css",
+    "main.js": "/flow-rate-app/static/js/main.d65b0891.js",
+    "static/js/453.13154228.chunk.js": "/flow-rate-app/static/js/453.13154228.chunk.js",
+    "index.html": "/flow-rate-app/index.html",
+    "main.e6c13ad2.css.map": "/flow-rate-app/static/css/main.e6c13ad2.css.map",
+    "main.d65b0891.js.map": "/flow-rate-app/static/js/main.d65b0891.js.map",
+    "453.13154228.chunk.js.map": "/flow-rate-app/static/js/453.13154228.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.d65b0891.js"
+  ]
+}
