@@ -2,6 +2,11 @@
 
 This project demonstrates a 3D visualization of a flow cube using React and Three.js. The application renders an interactive 3D cube with numbered walls and a hollow interior, allowing users to visualize and interact with the cube in a web browser.
 
+## Live Demo
+
+You can view the live demo of this project at:
+[https://pasyukevich.github.io/flow-rate-app/](https://pasyukevich.github.io/flow-rate-app/)
+
 ## Features
 
 - 3D cube visualization with four numbered walls and an open top
